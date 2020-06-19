@@ -1,0 +1,17 @@
+{
+  "name": "lawmbdas",
+  "version": "1.0.0",
+  "description": "Utility package for AWS lambdas",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-o-sh/lawmbdas.git"
+  },
+  "author": "https://github.com/j-o-sh",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/j-o-sh/lawmbdas/issues"
+  },
+  "homepage": "https://github.com/j-o-sh/lawmbdas#readme"
+}
