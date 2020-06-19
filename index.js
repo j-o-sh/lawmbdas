@@ -8,6 +8,12 @@ export default function (callback) {
         },
         body: ''
       })
-    }
+    },
+    methodNotAllowed ( calledMethod ) {
+      callback(null, {
+        statusCode: 405,
+        body: `http method ${calledMethod} is not allowed here!`
+      })
+    } 
   }
 }
