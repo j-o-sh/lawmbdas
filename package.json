@@ -1,6 +1,6 @@
 {
   "name": "lawmbdas",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Utility package for AWS lambdas",
   "main": "index.js",
   "type": "module",
